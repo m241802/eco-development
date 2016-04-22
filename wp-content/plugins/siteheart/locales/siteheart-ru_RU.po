@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: siteheart\n"
+"POT-Creation-Date: 2012-11-14 17:19+0200\n"
+"PO-Revision-Date: 2012-11-14 17:20+0200\n"
+"Last-Translator: Pavel <pavel_kucenko@mail.ru>\n"
+"Language-Team: siteheart <pavel_kucenko@mail.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: Z:\\home\\localhost\\www\\wp-content\\plugins\\siteheart\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: Z:\\home\\localhost\\www\\wp-content\\plugins"
+"\\siteheart\n"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:204
+msgid "Authorize in Siteheart"
+msgstr "Авторизируйтесь в Siteheart"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:209
+msgid "Division"
+msgstr "Отдел"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:215
+msgid "Color"
+msgstr "Цвет"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:252
+msgid "Appearance"
+msgstr "Положение"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:255
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:274
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:473
+msgid "Bottom"
+msgstr "Внизу"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:256
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:467
+msgid "Left"
+msgstr "Слева"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:257
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:467
+msgid "Right"
+msgstr "Справа"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:258
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:272
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:473
+msgid "Top"
+msgstr "Вверху"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:263
+msgid "Position"
+msgstr "Позиционирование"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:267
+msgid "Right Side"
+msgstr "Правый угол"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:268
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:273
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:467
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:473
+msgid "Center"
+msgstr "Центр"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:269
+msgid "Left Side"
+msgstr "Левый угол"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:280
+msgid "Widget title online"
+msgstr "Текст на виджете online"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:282
+msgid "Help online"
+msgstr "Помощь онлайн"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:286
+msgid "Widget title offline"
+msgstr "Текст на виджете offline"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:288
+msgid "Leave a message"
+msgstr "Оставить сообщение"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:292
+msgid "Automatic chat invitation"
+msgstr "Авто приглашение в чат"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:295
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:314
+msgid "off"
+msgstr "Выкл."
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:296
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:315
+msgid "sec"
+msgstr "сек"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:297
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:298
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:299
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:300
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:301
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:302
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:303
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:304
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:305
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:306
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:316
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:317
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:318
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:319
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:320
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:321
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:322
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:323
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:324
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:325
+msgid "min"
+msgstr "мин"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:311
+msgid "Repeat chat invitation in"
+msgstr "Повторное приглашение через"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:330
+msgid "Invitation text"
+msgstr "Текст приглашения"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:336
+msgid "Invitation url of avatar"
+msgstr "URL аватара автоприглашения"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:343
+msgid "Secret key"
+msgstr "Секретный ключ"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:344
+msgid "for transfer of user data"
+msgstr "для передачи данных пользователя"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:353
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:475
+msgid "Layout of text"
+msgstr "Раскладка текста"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:355
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:475
+msgid "Vertical"
+msgstr "Вертикальная"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:356
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:475
+msgid "Horizontal"
+msgstr "Горизонтальная"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:362
+msgid "Client choose the division on start"
+msgstr "Пользователь выбирает отделы"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:365
+msgid "Monitoring of visitors"
+msgstr "Мониторинг посетителей"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:368
+msgid "Hide the widget online"
+msgstr "Скрывать виджет online"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:371
+msgid "Hide the widget offline"
+msgstr "Скрывать виджет offline"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:374
+msgid "Offline pays"
+msgstr "Offline платежи"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/set.php:377
+msgid "Save"
+msgstr "Сохранить"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/siteheart.php:92
+msgid ""
+"<div class=\"updated\"><p><b>You must <a href=\"admin.php?page=siteheart"
+"\">configure the plugin</a> to enable Siteheart.</b></p></div>"
+msgstr ""
+"<div class=\"updated\"><p><b>Вы должны <a href=\"admin.php?page=siteheart"
+"\">настроить плагин</a> для активации Siteheart.</b></p></div>"
+
+#: Z:\home\localhost\www\wp-content\plugins\siteheart/success.php:13
+msgid "information is successfully stored"
+msgstr "Настройки успешно сохранены"
+
+#~ msgid "Settings"
+#~ msgstr "Настройки"
+
+#~ msgid "Go to administrator panel"
+#~ msgstr "Перейти в панель администратора"
+
+#~ msgid "SH_AUTORIZING"
+#~ msgstr "werggsdf"
